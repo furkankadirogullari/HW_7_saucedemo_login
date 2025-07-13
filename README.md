@@ -5,19 +5,6 @@ It performs automated login tests on the [SauceDemo](https://www.saucedemo.com/)
 
 ---
 
-## 📁 Project Structure
-
-saucedemo-login-tests/
-├── pom.xml
-└── src
-├── main
-│ └── java
-└── test
-└── java
-└── com
-└── furkan
-└── saucedemo
-└── SauceDemoLoginTest.java
 
 ## ✅ Features
 
